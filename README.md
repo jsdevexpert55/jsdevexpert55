@@ -1,4 +1,4 @@
-<h3 align="center">React/Vue.js, Node.js</h3>
+<h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdevexpert55&label=Profile%20views&color=0e75b6&style=flat" alt="jsdevexpert55" /> </p>
 
