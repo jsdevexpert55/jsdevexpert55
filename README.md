@@ -2,12 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdevexpert55&label=Profile%20views&color=0e75b6&style=flat" alt="jsdevexpert55" /> </p>
 
-- 🌱 I’m currently learning **React/Vue.js, Node.js**
-
-- 💬 Ask me about **React/Vue.js, Node.js**
-
-- 📫 How to reach me **ellisf273@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jsdevexpert55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jsdevexpert55" height="30" width="40" /></a>
